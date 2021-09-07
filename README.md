@@ -3,7 +3,7 @@
 
 | Overview | Language |
 | --- | --- |
-|[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abui-am)](https://github.com/anuraghazra/github-readme-stats)|![Language](https://raw.githubusercontent.com/abui-am/stats/c6455f656dfce7acd3951e5ec5b25d72af0b2ee3/generated/languages.svg)|
+|[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abui-am&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![Language](https://raw.githubusercontent.com/abui-am/stats/c6455f656dfce7acd3951e5ec5b25d72af0b2ee3/generated/languages.svg)|
 
 ## Prologue: Code, Rain, and Capucinno
 The evening breeze of a still-cold spring blew quickly through the air between us.
