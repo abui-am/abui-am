@@ -7,7 +7,7 @@
 
 ## Prologue: Code, Rain, and Capucinno
 
-`Abuidillah Adjie Muliadi` you can call me `Abui`, your daily average `19's` figure who happens to be in his middle life crisis. While looked like an average `Indonesian` young man, i am a `software engineer`, an `enthusiast` if you asked me. 
+`Abuidillah Adjie Muliadi` you can call me `Abui`. While looked like an average `Indonesian` young man, i am a `software engineer`, an `enthusiast` if you asked me. 
 
 `I likes Front-end tech, especially Typescript, Javascript, and React.` I also has `some proficiency in UI/UX and graphic design`, while looked like some unnecessary skill those skills benefit me in term of `flexibility in development.`
 
