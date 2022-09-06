@@ -1,4 +1,10 @@
 # 👋 Hola, Abui here!
+
+🌱 I’m currently learning Advanced Typescript and Software Architecture
+☁️ I’m currently focusing on Front End Development
+💬 Ask me about anything
+😄 Pronouns: He/Him
+
 ## My Github Stats
 
 | Overview | Language |
