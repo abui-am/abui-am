@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **Advanced Typescript**, **Software Architecture**, and **Design Patterns**
 - ☁️ I’m currently focusing on Front End Development
 - 💬 Ask me about anything
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: [object Object]
 
 ## My Github Stats
 
