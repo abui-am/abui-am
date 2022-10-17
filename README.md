@@ -18,4 +18,14 @@ i am a `software engineer`, an `enthusiast` if you asked me.
 
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   16 hrs 5 mins   ████████████░░░░░░░░░░░░░   47.93 %
+JavaScript   6 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.35 %
+Astro        3 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
+Go           3 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+JSON         1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Markdown     1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+```
+
 <!--END_SECTION:waka-->
