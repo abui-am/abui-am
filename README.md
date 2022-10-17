@@ -17,4 +17,5 @@ i am a `software engineer`, an `enthusiast` if you asked me.
 `I likes Front-end tech, especially Typescript, Javascript, and React.` I also has `some proficiency in UI/UX and graphic design`, while looked like some unnecessary skill those skills benefit me in term of `flexibility in development.`
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
