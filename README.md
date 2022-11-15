@@ -20,10 +20,10 @@ i am a `software engineer`, an `enthusiast` if you asked me.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2,933 hrs 2 mins
+Total Time: 2,933 hrs 39 mins
 
-JavaScript       1,477 hrs 19 mins████████████▒░░░░░░░░░░░░   48.69 %
-TypeScript       1,150 hrs 37 mins█████████▒░░░░░░░░░░░░░░░   37.92 %
+JavaScript       1,477 hrs 19 mins████████████▒░░░░░░░░░░░░   48.68 %
+TypeScript       1,150 hrs 37 mins█████████▒░░░░░░░░░░░░░░░   37.91 %
 Other            101 hrs 14 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
