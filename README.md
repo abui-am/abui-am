@@ -1,6 +1,6 @@
 # 👋 Hola, Abui here!
 
-- 🌱 I’m currently learning **Advanced Typescript**, **Software Architecture**, and **Design Patterns**
+- 🌱 I’m currently learning **Software Testing**, **Software Architecture**, and **Design Patterns**
 - ☁️ I’m currently focusing on Front End Development
 - 💬 Ask me about anything
 - 😄 Pronouns: [object Object]
