@@ -20,12 +20,12 @@ i am a `software engineer`, an `enthusiast` if you asked me.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3,781 hrs 11 mins
+Total Time: 3,786 hrs 2 mins
 
-TypeScript       1,811 hrs 25 mins███████████▓░░░░░░░░░░░░░   46.55 %
-JavaScript       1,597 hrs 53 mins██████████▒░░░░░░░░░░░░░░   41.07 %
-JSON             132 hrs 41 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Other            109 hrs 54 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TypeScript       1,814 hrs 36 mins███████████▓░░░░░░░░░░░░░   46.58 %
+JavaScript       1,599 hrs 26 mins██████████▒░░░░░░░░░░░░░░   41.05 %
+JSON             132 hrs 48 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Other            110 hrs         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
 PHP              35 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
