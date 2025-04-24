@@ -1,5 +1,6 @@
 # Greetings ✨
-
+- 😻 Sr Software Engineer
+- 🎓 Undergraduate Student at Telkom University, Indonesia
 - 🌱 I’m currently learning **Software Testing**, **Software Architecture**, and **Design Patterns**
 - ☁️ I’m currently focusing on Front End Development
 - 💬 Ask me about anything
