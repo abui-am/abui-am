@@ -20,13 +20,13 @@ Mainly use Typescript, Javascript, and React. I also has some proficiency in UI/
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5,801 hrs 14 mins
+Total Time: 5,803 hrs 20 mins
 
-TypeScript        3,434 hrs 12 mins██████████████▒░░░░░░░░░░   57.83 %
-JavaScript        1,677 hrs 53 mins███████░░░░░░░░░░░░░░░░░░   28.26 %
+TypeScript        3,435 hrs 2 mins██████████████▒░░░░░░░░░░   57.82 %
+JavaScript        1,677 hrs 53 mins███████░░░░░░░░░░░░░░░░░░   28.25 %
 JSON              184 hrs 55 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 Other             137 hrs 5 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Python            93 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Python            94 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
