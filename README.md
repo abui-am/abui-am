@@ -13,7 +13,7 @@
 ## Hello there, 
 ~~Frontend Software Engineer. 
 Mainly use Typescript, Javascript, and React. I also has some proficiency in UI/UX and graphic design, while looked like some unnecessary skill those skills benefit me in term of `flexibility in development.`~~
-Full stack Software Engineer, just tell me what you gonna build and I'll done it
+Full-Stack Software Engineer, just tell me what you gonna build and it will come to alive.
 
 <!--START_SECTION:waka-->
 
