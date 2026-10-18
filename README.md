@@ -11,9 +11,9 @@
 |[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abui-am&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|![Language](https://raw.githubusercontent.com/abui-am/stats/c6455f656dfce7acd3951e5ec5b25d72af0b2ee3/generated/languages.svg)|
 
 ## Hello there, 
-Frontend Software Engineer. 
-Mainly use Typescript, Javascript, and React. I also has some proficiency in UI/UX and graphic design, while looked like some unnecessary skill those skills benefit me in term of `flexibility in development.`
-
+~~Frontend Software Engineer. 
+Mainly use Typescript, Javascript, and React. I also has some proficiency in UI/UX and graphic design, while looked like some unnecessary skill those skills benefit me in term of `flexibility in development.`~~
+Full stack Software Engineer, just tell me what you gonna build and I'll done it
 
 <!--START_SECTION:waka-->
 
